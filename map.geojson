@@ -1,0 +1,192 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "orange",
+                "name": "Florida Training Camp"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.40100112413283,
+                        43.66780073893332
+                    ],
+                    [
+                        -80.09691320688168,
+                        26.191206428560434
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 0
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NYC Dual Meet",
+                "stroke": "green"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.40100256738559,
+                        43.66779940589606
+                    ],
+                    [
+                        -73.99452532039435,
+                        40.753708509023454
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 1
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Las Vegas Dual Meet",
+                "stroke": "green"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.40100020305748,
+                        43.667802290950675
+                    ],
+                    [
+                        -115.13629652698177,
+                        36.17428205375069
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 2
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barbados Training Camp",
+                "stroke": "orange"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.40100555968166,
+                        43.66779118843709
+                    ],
+                    [
+                        -59.602359683930004,
+                        13.076097127305886
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 3
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "USports Championships 2023",
+                "stroke": "dark blue"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.4010043287478,
+                        43.667806400680064
+                    ],
+                    [
+                        -123.3684011798129,
+                        48.43950684961996
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 4
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "USports Championships 2022",
+                "stroke": "dark blue"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.40096383343952,
+                        43.667781093992716
+                    ],
+                    [
+                        -71.27853344874606,
+                        46.78709130757929
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 5
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OUA Championships 2023",
+                "stroke": "purple"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.40099772207476,
+                        43.66780633978746
+                    ],
+                    [
+                        -81.24291119071748,
+                        42.985154180323434
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 6
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OUA Championships 2024",
+                "stroke": "purple"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.4009902187942,
+                        43.667809936619875
+                    ],
+                    [
+                        -79.2375766544999,
+                        43.117911964582845
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "USports Championships 2024",
+                "stroke": "dark blue"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.40099140346581,
+                        43.667791988629915
+                    ],
+                    [
+                        -73.82678721372754,
+                        45.46211007604984
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ]
+}
